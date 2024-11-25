@@ -1,6 +1,6 @@
 <div align="center">
-
-  # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Software+Engineer+student🕷;&font_size=60&height=80)](https://git.io/typing-svg)
+  
+   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Software+Engineer+student🕷;&font_size=60&height=80)](https://git.io/typing-svg)
 </div>
 <div align="center">
   
@@ -29,6 +29,7 @@
 
 <div align="center">
 
+#
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5k0qt1kw4r9k4ob7dso6cgtmy&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=764eb1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
