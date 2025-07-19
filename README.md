@@ -14,7 +14,7 @@
 
 
 
-- 🏠 I am a **Junior** at the [FISEI](https://fisei.uta.edu.ec/v4.0/) at [Technical University of Ambato](https://www.uta.edu.ec/v4.0/).
+- 🏠 I am a Junior at the [FISEI](https://fisei.uta.edu.ec/v4.0/) at [Technical University of Ambato](https://www.uta.edu.ec/v4.0/).
 - 👨‍💻 I love using Software as a solution for every **Problem**.
 - 🧑‍🎓 I’m currently studying **Software Engineering**.
 - 🤓 Always **learning new things**.
